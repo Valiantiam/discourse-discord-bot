@@ -14,3 +14,6 @@ plugins:
   discord_bot_rate_limit_delay:
     default: 2
     client: false
+  discord_bot_sync_frequency:
+    default: 900000
+    client: false
